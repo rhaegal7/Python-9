@@ -7,5 +7,6 @@
 在cmd或Anaconda Prompt运行会出现UnicodeEncodeError
 
 请使用jupyter notebook
-请查看Demo.ipynb
+
+请查看**Demo.ipynb**
 
