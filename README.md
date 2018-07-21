@@ -1,10 +1,11 @@
 # Python 9
 
-# 支持“查看下一页”
+支持“查看下一页”
 
-# 可以同时返回百度和必应的结果
+可以同时返回百度和必应的结果
 
-# 在cmd或Anaconda Prompt运行会出现UnicodeEncodeError
+在cmd或Anaconda Prompt运行会出现UnicodeEncodeError
 
-# 请查看Demo.ipynb
+请使用jupyter notebook
+请查看Demo.ipynb
 
